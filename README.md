@@ -88,8 +88,14 @@ We follow a simple but powerful approach:
 
 ## 📊 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAIFIYA_URLWEBWALA&show_icons=true&theme=tokyonight" />
----
+## 🚀 Why Choose URLWebWala
+
+✔️ Modern & Clean UI Design
+✔️ Fully Responsive & Mobile-First
+✔️ Smooth Animations & Interactive UI
+✔️ Scalable Backend Architecture
+✔️ Performance Optimized Applications
+✔️ Real-World Development Experience
 
 ## 📫 Let’s Work Together
 
