@@ -89,10 +89,8 @@ We follow a simple but powerful approach:
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAIFIYA_URLWEBWALA&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAIFIYA_URLWEBWALA&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KAIFIYA_URLWEBWALA&show_icons=true&theme=tokyonight" height="150"/>
 </p>
-
 ---
 
 ## 📫 Let’s Work Together
