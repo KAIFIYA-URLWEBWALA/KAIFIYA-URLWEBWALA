@@ -86,8 +86,6 @@ We follow a simple but powerful approach:
 
 ---
 
-## 📊 GitHub Insights
-
 ## 🚀 Why Choose URLWebWala
 
 ✔️ Modern & Clean UI Design
